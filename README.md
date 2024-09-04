@@ -1,6 +1,6 @@
 # Desafios Target Systems
 
-Este repositório contém uma série de desafios de programação, juntamente com suas respectivas soluções e testes. Os desafios cobrem uma variedade de tópicos, incluindo cálculos matemáticos, manipulação de strings, processamento de JSON e análise de dados.
+Este repositório contém uma série de desafios de programação, juntamente com suas respectivas soluções e testes.
 
 ## Desafios
 
