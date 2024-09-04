@@ -56,7 +56,7 @@ Os testes são realizados usando JUnit 5 e Maven. Para executar os testes, siga 
 Aqui estão os resultados dos testes executados:
 
 ### Testes dos Desafios
-![Resultados dos Desafios JUnit](imagens/testes-desafios-junit.png)
+![Resultados dos Desafios JUnit](Images/image.png)
 
 ## Estrutura do Projeto
 
@@ -69,11 +69,3 @@ Aqui estão os resultados dos testes executados:
 - JDK 11 ou superior.
 - Maven para execução dos testes.
 - JUnit 5 para execução de testes.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
-## Contato
-
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue neste repositório.
