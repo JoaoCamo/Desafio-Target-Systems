@@ -75,7 +75,7 @@ Os testes são realizados usando JUnit 5 e Maven. Para executar os testes, siga 
 Aqui estão os resultados dos testes executados:
 
 ### Testes dos Desafios
-![Resultados dos Desafios Jnuit](imagens/testes-desafios-junit.png)
+![Resultados dos Testes](imagens/testes-desafios-junit.png)
 
 ## Estrutura do Projeto
 
