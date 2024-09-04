@@ -24,17 +24,17 @@ Inverte uma string fornecida pelo usuário.
 
 ## Execução do Código
 
-Para executar os códigos, você pode compilar e rodar as classes diretamente no terminal ou usar uma IDE como IntelliJ IDEA ou Eclipse. Certifique-se de que o JDK está instalado e configurado em seu ambiente.
+Para executar os códigos, use uma IDE como IntelliJ IDEA ou Eclipse. 
 
-1. **Compilação**: Navegue até o diretório do projeto e compile o código usando:
-    ```bash
-    mvn compile
-    ```
+### Passos para Executar na IDE:
 
-2. **Execução**: Para executar uma classe específica, use:
-    ```bash
-    mvn exec:java -Dexec.mainClass="testeTargetSystems.Desafio1"
-    ```
+1. **Importar o Projeto**:
+   - Abra sua IDE (IntelliJ IDEA, Eclipse, etc.).
+   - Importe o projeto como um projeto Maven.
+
+2. **Executar uma Classe Específica**:
+   - Navegue até a classe que você deseja executar. Por exemplo, para executar `Desafio1`, localize `Desafio1.java` dentro do diretório `src/testeTargetSystems/`.
+   - Clique com o botão direito na classe e selecione a opção para executar a classe (geralmente chamada "Run 'Desafio1.main()'").
 
 ## Execução dos Testes
 
@@ -48,16 +48,15 @@ Os testes são realizados usando JUnit 5 e Maven. Para executar os testes, siga 
 
 2. **Usando uma IDE**:
     - Abra o projeto em uma IDE que suporte JUnit 5 (por exemplo, IntelliJ IDEA ou Eclipse).
-    - Execute os testes a partir da IDE.
+    - Navegue até a classe de testes em `src/testeTargetSystemsTest/`.
+    - Execute os testes clicando com o botão direito na classe de teste e selecionando a opção para executar os testes (geralmente chamada "Run 'DesafioTest'").
 
 ## Resultados dos Testes
 
 Aqui estão os resultados dos testes executados:
 
 ### Testes dos Desafios
-![Resultados dos Desafios JUnit](Images/image.png)
-
-*Adicione imagens dos resultados dos testes na pasta `imagens` e atualize o README com as capturas de tela relevantes.*
+![Resultados dos Desafios JUnit](imagens/testes-desafios-junit.png)
 
 ## Estrutura do Projeto
 
